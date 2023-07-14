@@ -1,18 +1,27 @@
-# 💫 About Me:
-I'm A Backend Dev!
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nilaxann75) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-vargas-62529718b/) 
+<div align="center">
+to my personal GitHub profile!
+</div>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nilaxann65&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nilaxann65&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilaxann65&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h3 align="center">
+<a href="https://dev.to/nilaxann65">Visit my blog in dev.to
+<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+</a>
+</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=nilaxann65&icon=0&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+Who Am I?
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a Backend developer and typed languages lover
+</div>
+
+# My lasts articles:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
