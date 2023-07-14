@@ -18,6 +18,7 @@ to my personal GitHub profile!
 
 <div align="center">
 Who Am I?
+  
 I am a backend developer who is passionate about extremely strongly typed languages
 </div>
 
