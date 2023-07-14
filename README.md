@@ -18,12 +18,14 @@ to my personal GitHub profile!
 
 <div align="center">
 Who Am I?
-
-I'm a Backend developer and typed languages lover
+I am a backend developer who is passionate about extremely strongly typed languages
 </div>
 
-# My lasts articles:
+
+# Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [NestJs: DDD implementation - EN](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
 - [NestJs: Implementación de DDD - ES](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
 <!-- BLOG-POST-LIST:END -->
+
+
